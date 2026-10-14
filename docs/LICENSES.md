@@ -30,3 +30,6 @@ https://polyhaven.com/a/leafy_grass
 https://polyhaven.com/a/rock_01
 Quaternius Stylized Nature MegaKit grass/rock models are CC0 (license in assets/environment/nature/LICENSE.txt).
 Waterfall/mountain procedural geometry and shaders were authored in this project.
+
+Noto Sans and Noto Sans Symbols 2: SIL Open Font License 1.1. Bundled for consistent web glyphs; license files in assets/fonts. Sources: https://github.com/google/fonts/tree/main/ofl/notosans and https://github.com/google/fonts/tree/main/ofl/notosanssymbols2
+Noto Sans Symbols (basic Unicode arrows): SIL Open Font License 1.1; assets/fonts/NotoSansSymbols-OFL.txt. Source: https://github.com/google/fonts/tree/main/ofl/notosanssymbols
