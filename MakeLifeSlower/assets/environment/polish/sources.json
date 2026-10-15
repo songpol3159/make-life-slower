@@ -1,0 +1,58 @@
+[
+  {
+    "asset": "grass_path_2",
+    "map": "Diffuse",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grass_path_2/grass_path_2_diff_1k.jpg",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/grass_path_2"
+  },
+  {
+    "asset": "grass_path_2",
+    "map": "nor_gl",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grass_path_2/grass_path_2_nor_gl_1k.jpg",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/grass_path_2"
+  },
+  {
+    "asset": "clay_roof_tiles_02",
+    "map": "Diffuse",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/clay_roof_tiles_02/clay_roof_tiles_02_diff_1k.jpg",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/clay_roof_tiles_02"
+  },
+  {
+    "asset": "clay_roof_tiles_02",
+    "map": "nor_gl",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/clay_roof_tiles_02/clay_roof_tiles_02_nor_gl_1k.jpg",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/clay_roof_tiles_02"
+  },
+  {
+    "asset": "clay_plaster",
+    "map": "Diffuse",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/clay_plaster/clay_plaster_diff_1k.jpg",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/clay_plaster"
+  },
+  {
+    "asset": "clay_plaster",
+    "map": "nor_gl",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/clay_plaster/clay_plaster_nor_gl_1k.jpg",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/clay_plaster"
+  },
+  {
+    "asset": "oak_wood_planks",
+    "map": "Diffuse",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/oak_wood_planks/oak_wood_planks_diff_1k.jpg",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/oak_wood_planks"
+  },
+  {
+    "asset": "oak_wood_planks",
+    "map": "nor_gl",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/oak_wood_planks/oak_wood_planks_nor_gl_1k.jpg",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/oak_wood_planks"
+  }
+]

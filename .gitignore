@@ -1,2 +1,17 @@
 .DS_Store
 Thumbs.db
+**/.godot/
+**/__pycache__/
+MakeLifeSlower/build/
+MakeLifeSlower/export_templates/
+*_preview.png
+*_preview.png.import
+preview.png
+preview.png.import
+*.blend1
+*.blend2
+*.tmp
+*PRIVATE*
+.env
+.env.*
+tools/github_publish_result.json

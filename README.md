@@ -19,7 +19,14 @@ I: inventory; M: map; L: lantern; Esc: menu. Xbox: sticks move/look, A interact,
 X use, Y inventory, shoulders tools, Start pause. In menus, D-pad/stick selects,
 left/right adjusts, A confirms and B returns.
 
-This repository contains the web release and third-party license notices.
+This repository contains the editable Godot project, development scripts, Blender
+model sources, the web release and third-party license notices.
+
+## Open the source
+
+Clone or download this repository. Import `MakeLifeSlower/project.godot` in
+Godot 4.7.2 Standard, wait for asset import, then press F5 to play.
+See [DEVELOPING.md](DEVELOPING.md) for the project layout and export instructions.
 
 ## Latest update — October 15, 2026
 
