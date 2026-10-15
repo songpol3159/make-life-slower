@@ -33,3 +33,8 @@ Waterfall/mountain procedural geometry and shaders were authored in this project
 
 Noto Sans and Noto Sans Symbols 2: SIL Open Font License 1.1. Bundled for consistent web glyphs; license files in assets/fonts. Sources: https://github.com/google/fonts/tree/main/ofl/notosans and https://github.com/google/fonts/tree/main/ofl/notosanssymbols2
 Noto Sans Symbols (basic Unicode arrows): SIL Open Font License 1.1; assets/fonts/NotoSansSymbols-OFL.txt. Source: https://github.com/google/fonts/tree/main/ofl/notosanssymbols
+
+## Visual polish and equipment (2026-10-15)
+Poly Haven CC0 1K material maps: Grass Path 2 (Rob Tuytel), Clay Roof Tiles 02, Clay Plaster and Oak Wood Planks. Exact source URLs and downloaded map provenance: assets/environment/polish/sources.json. https://polyhaven.com/a/grass_path_2 , https://polyhaven.com/a/clay_roof_tiles_02 , https://polyhaven.com/a/clay_plaster , https://polyhaven.com/a/oak_wood_planks . Plaster color adjusted for the warm stylized palette; road/ground/contact mask generated for this map.
+
+CC0 equipment: Watering Can by Isa Lousberg; Fishing Rod by Quaternius; hoe variants by Kenney Survival Kit. See assets/equipment/SOURCES.md and KENNEY_LICENSE.txt for original sources and attribution.

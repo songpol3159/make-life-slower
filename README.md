@@ -20,3 +20,19 @@ X use, Y inventory, shoulders tools, Start pause. In menus, D-pad/stick selects,
 left/right adjusts, A confirms and B returns.
 
 This repository contains the web release and third-party license notices.
+
+## Latest update — October 15, 2026
+
+Cozy environment polish: feathered dirt paths painted into the terrain, short-grass
+variation, textured plaster/timber/roof tiles, fuller tree crowns and warmer light.
+Free CC0 watering can, hoe variants and fishing rod replace placeholder equipment.
+
+Open the pause menu or gardener journal for processing machines, garden decoration,
+the calendar/festivals and save slots. Visit shopkeepers to talk, give gifts and
+unlock rewards. Fishing includes species-specific movement and surges.
+
+Three save slots support JSON file export/import. Export a backup before clearing
+browser data or moving between localhost and this site; saves are not cloud synced.
+The original save remains in slot 1. Export a slot before importing a replacement.
+
+See docs/LICENSES.md for equipment and environment attribution.
